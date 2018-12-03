@@ -1,6 +1,6 @@
 # Design-Patterns
 
-##Factory Pattern##
+## Factory Pattern
 
 * [Practice1]https://www.journaldev.com/1392/factory-design-pattern-in-java
 * [Practice2]https://alvinalexander.com/java/java-factory-pattern-example#the-concrete-dog-classes
