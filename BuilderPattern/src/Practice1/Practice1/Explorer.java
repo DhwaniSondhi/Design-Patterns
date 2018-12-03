@@ -3,7 +3,7 @@ package Practice1;
  * Director
  */
 public class Explorer {
-	ShelterBuilder shelterBuilder;
+	private ShelterBuilder shelterBuilder;
 	
 	public void setShelterBuilder(ShelterBuilder shelterBuilder){
 		this.shelterBuilder=shelterBuilder;

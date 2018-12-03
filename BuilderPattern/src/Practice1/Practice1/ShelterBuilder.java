@@ -1,7 +1,7 @@
 package Practice1;
 
 public abstract class ShelterBuilder {
-	Shelter shelter;
+	protected Shelter shelter;
 	
 	public Shelter getShelter(){
 		return shelter;
