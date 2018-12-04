@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32f4a30b-77e4-4291-8385-9ad82feece12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice1/abc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/FactoryDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/FactoryDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/Helicopter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/Helicopter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/JumpingFrog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/JumpingFrog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/Toy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/Toy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/ToyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/out/production/untitled/Practice3/ToyFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/FactoryDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/FactoryDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/Helicopter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/JumpingFrog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/JumpingFrog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/Toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/Toy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/ToyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FactoryPattern/src/Practice3/ToyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/src/Practice4/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/src/Practice4/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/src/Practice4/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/src/Practice4/ShapeGetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FactoryPattern/src/Practice4/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryPattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,12 +22,20 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2065051212">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -55,7 +45,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="867" />
     <option name="height" value="688" />
@@ -66,6 +56,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,8 +81,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -120,8 +110,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -152,9 +143,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Practice1/abc.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Practice1/abc.java" />
   </component>
   <component name="masterDetails">
     <states>
