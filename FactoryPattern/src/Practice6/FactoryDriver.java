@@ -4,7 +4,7 @@ public class FactoryDriver {
 
 	public static void main(String[] args){
 		ToyInjectionSelecter toyInjectionSelector=new ToyInjectionSelecter();
-		InjectionMold injectionMold=toyInjectionSelector.getToyInjection("Plane");
+		InjectionMold injectionMold=toyInjectionSelector.getToyInjection("Plane	");
 		injectionMold.injectionMold();
 	}
 }
