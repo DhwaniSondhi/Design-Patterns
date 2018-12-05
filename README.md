@@ -7,6 +7,7 @@
 * [Practice Problem 3](https://www.binpress.com/factory-design-pattern/)
 * [Practice Problem 4](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm)
 Note: Practice 4 can be read through Proff Examples
+* [Practice Problem 5](https://dzone.com/articles/java-the-factory-pattern)
 
 ## Builder Pattern
 
