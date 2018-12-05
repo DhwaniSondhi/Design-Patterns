@@ -8,6 +8,8 @@
 * [Practice Problem 4](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm)
 Note: Practice 4 can be read through Proff Examples
 * [Practice Problem 5](https://dzone.com/articles/java-the-factory-pattern)
+* [Practice Problem 6](https://sourcemaking.com/design_patterns/factory_method)
+* [Practice Problem 7](https://www.geeksforgeeks.org/design-patterns-set-2-factory-method)
 
 ## Builder Pattern
 
