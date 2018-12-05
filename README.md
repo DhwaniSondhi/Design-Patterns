@@ -18,3 +18,5 @@ Note: Practice 4 can be read through Proff Examples
 * [Practice Problem 3](https://sourcemaking.com/design_patterns/builder/java/2)
 * [Practice Problem 4](https://dzone.com/articles/design-pattern-builder-pattern)
 * [Practice Problem 5](https://www.youtube.com/watch?v=9XnsOpjclUg)
+* [Practice Problem 6](https://www.javagists.com/builder-pattern-with-java-examples)
+* [Practice Problem 7](http://www.blackwasp.co.uk/builder_2.aspx)
