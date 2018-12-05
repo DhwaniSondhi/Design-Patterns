@@ -15,3 +15,4 @@ Note: Practice 4 can be read through Proff Examples
 
 * Practice Problem 1 : to be read from Proff Examples
 * [Practice Problem 2](https://www.tutorialspoint.com/design_pattern/builder_pattern.htm)
+* [Practice Problem 4](https://dzone.com/articles/design-pattern-builder-pattern)
