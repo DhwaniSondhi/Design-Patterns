@@ -22,8 +22,8 @@ Note: Practice 4 can be read through Proff Examples
 * [Practice Problem 7](http://www.blackwasp.co.uk/builder_2.aspx)
 
 ## Adapter Pattern
-* [Practice Problem 1] : to be read from Proff Examples
-* [Practice Problem 2] : to be read from Proff Examples
+* Practice Problem 1 : to be read from Proff Examples
+* Practice Problem 2 : to be read from Proff Examples
 * [Practice Problem 3](https://www.geeksforgeeks.org/adapter-pattern/)
 * [Practice Problem 4](https://sourcemaking.com/design_patterns/adapter)
 * [Practice Problem 5](https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm)
