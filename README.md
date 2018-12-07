@@ -22,10 +22,12 @@ Note: Practice 4 can be read through Proff Examples
 * [Practice Problem 7](http://www.blackwasp.co.uk/builder_2.aspx)
 
 ## Adapter Pattern
-* [Practice Problem 1](https://www.geeksforgeeks.org/adapter-pattern/)
-* [Practice Problem 2](https://sourcemaking.com/design_patterns/adapter)
-* [Practice Problem 3](https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm)
-* [Practice Problem 4](https://www.journaldev.com/1487/adapter-design-pattern-java)
-* [Practice Problem 5](https://dzone.com/articles/design-patterns-explained-adapter-pattern-with-cod)
-* [Practice Problem 6](http://www.vogella.com/tutorials/DesignPatternAdapter/article.html)
-* [Practice Problem 7](https://medium.com/@ssaurel/implement-the-adapter-design-pattern-in-java-f9adb6a8828f)
+* [Practice Problem 1] : to be read from Proff Examples
+* [Practice Problem 2] : to be read from Proff Examples
+* [Practice Problem 3](https://www.geeksforgeeks.org/adapter-pattern/)
+* [Practice Problem 4](https://sourcemaking.com/design_patterns/adapter)
+* [Practice Problem 5](https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm)
+* [Practice Problem 6](https://www.journaldev.com/1487/adapter-design-pattern-java)
+* [Practice Problem 7](https://dzone.com/articles/design-patterns-explained-adapter-pattern-with-cod)
+* [Practice Problem 8](http://www.vogella.com/tutorials/DesignPatternAdapter/article.html)
+* [Practice Problem 9](https://medium.com/@ssaurel/implement-the-adapter-design-pattern-in-java-f9adb6a8828f)
