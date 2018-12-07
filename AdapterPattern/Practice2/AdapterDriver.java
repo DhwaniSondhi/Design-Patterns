@@ -8,14 +8,12 @@ public class AdapterDriver {
 		RoundPeg roundPeg=new RoundPeg();
 		
 		//client understands sqaurepeg-----> insert
-		PegAdapter pegAdapter=new PegAdapter(roundPeg);
-		//sqaurePeg.insert("Hiiiiiii");
-		pegAdapter.insert("Hiiiiiii");
+		SquarePegInterface squarePegInterface=new PegAdapter(roundPeg);
+		squarePegInterface.insert("Hiiiiiii");
 		
 		//client understands sqaurepeg-----> insertIntoHole
-		pegAdapter=new PegAdapter(sqaurePeg);
-		//roundPeg.insertIntoHole("Hiiiiiii");
-		pegAdapter.insertIntoHole("Hiiiiiii");
+		RoundPegInterface roundPegInterface=new PegAdapter(sqaurePeg);
+		roundPegInterface.insertIntoHole("Hiiiiiii");
 	}
 	
 	

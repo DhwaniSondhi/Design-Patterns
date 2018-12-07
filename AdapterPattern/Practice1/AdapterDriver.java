@@ -7,10 +7,10 @@ public class AdapterDriver {
 		SqaurePeg sqaurePeg=new SqaurePeg();
 		RoundPeg roundPeg=new RoundPeg();
 		
-		PegAdapter pegAdapter=new PegAdapter(roundPeg);
-		
 		sqaurePeg.insert("Hiiiiiii");
-		pegAdapter.insert("Hiiiiiii");
+		
+		SqaurePeg sqaurePegAda=new PegAdapter(roundPeg);
+		sqaurePegAda.insert("Hiiiiiii");
 	}
 	
 	

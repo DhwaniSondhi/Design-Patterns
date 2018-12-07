@@ -2,8 +2,8 @@ package Practice2;
 
 public class PegAdapter implements SquarePegInterface, RoundPegInterface{
 	
-	SquarePeg squarePeg;
-	RoundPeg roundPeg;
+	private SquarePeg squarePeg;
+	private RoundPeg roundPeg;
 	
 	public PegAdapter(SquarePeg squarePeg){
 		this.squarePeg=squarePeg;

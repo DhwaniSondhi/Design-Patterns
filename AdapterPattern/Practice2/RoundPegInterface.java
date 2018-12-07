@@ -2,6 +2,6 @@ package Practice2;
 
 public interface RoundPegInterface {
 
-	void insertIntoHole(String str);
+	public void insertIntoHole(String str);
 }
 

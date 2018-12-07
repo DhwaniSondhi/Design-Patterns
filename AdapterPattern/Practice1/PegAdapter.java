@@ -2,7 +2,7 @@ package Practice1;
 
 public class PegAdapter extends SqaurePeg  {
 
-	RoundPeg roundPeg;
+	private RoundPeg roundPeg;
 	
 	public PegAdapter(RoundPeg roundPeg){
 		this.roundPeg=roundPeg;
