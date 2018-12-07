@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="116d680a-a691-4ca2-8d1f-408569607b99" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../BuilderPattern/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BuilderPattern/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BuilderPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BuilderPattern/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="116d680a-a691-4ca2-8d1f-408569607b99" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +44,8 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.116" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -196,9 +194,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,6 +211,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,8 +326,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15885022" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09909228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -390,10 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
