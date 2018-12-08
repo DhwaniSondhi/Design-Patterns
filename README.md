@@ -33,3 +33,13 @@ Note: Practice 4 can be read through Proff Examples
 * [Practice Problem 9](https://medium.com/@ssaurel/implement-the-adapter-design-pattern-in-java-f9adb6a8828f)
 
 Note: Qs 9 and 5 are similar. It totally depends on the AdapterDriver(code in main function) code that how to develop code for adapter. Revice these two qs.
+
+
+## Adapter Pattern
+* [Practice Problem 1](https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm):can also be read from Proff Examples
+* [Practice Problem 2](https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial)
+* [Practice Problem 3](https://dzone.com/articles/design-patterns-strategy)
+* [Practice Problem 4](https://sourcemaking.com/design_patterns/strategy)
+* [Practice Problem 5](https://www.oodesign.com/strategy-pattern.html)
+* [Practice Problem 6](https://www.programcreek.com/2011/01/a-java-example-of-strategy-design-pattern/)
+* [Practice Problem 7](https://www.baeldung.com/java-strategy-pattern)
