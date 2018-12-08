@@ -35,7 +35,7 @@ Note: Practice 4 can be read through Proff Examples
 Note: Qs 9 and 5 are similar. It totally depends on the AdapterDriver(code in main function) code that how to develop code for adapter. Revice these two qs.
 
 
-## Adapter Pattern
+## Strategy Pattern
 * [Practice Problem 1](https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm):can also be read from Proff Examples
 * [Practice Problem 2](https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial)
 * [Practice Problem 3](https://dzone.com/articles/design-patterns-strategy)
