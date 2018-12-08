@@ -1,6 +1,6 @@
-package Problem5;
+package Practice5;
 
-public class OldStyleRobotBuilder extends RobotBuilder {
+public class BrainRobotBuilder extends RobotBuilder {
 
 	@Override
 	public void makeHead(){this.robot.setHead("two");}
@@ -15,5 +15,5 @@ public class OldStyleRobotBuilder extends RobotBuilder {
 	public void makeLegs(){this.robot.setLegs("two");}
 	
 	@Override
-	public void makeBrain(){this.robot.setBrain("no");}
+	public void makeBrain(){this.robot.setBrain("AI");}
 }
