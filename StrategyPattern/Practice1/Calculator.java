@@ -1,7 +1,7 @@
 package Practice1;
 
 public class Calculator {
-	CalculatorStrategy strategy;
+	private CalculatorStrategy strategy;
 	
 	public void setCalculatorStrategy(CalculatorStrategy strategy){
 		this.strategy=strategy;
