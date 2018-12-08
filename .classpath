@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="AdapterPattern"/>
 	<classpathentry kind="src" path="BuilderPattern/src"/>
 	<classpathentry kind="src" path="FactoryPattern/src"/>
+	<classpathentry kind="src" path="StrategyPattern"/>
 	<classpathentry kind="output" path="BuilderPattern/out/production/untitled"/>
 </classpath>
