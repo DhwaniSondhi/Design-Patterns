@@ -31,3 +31,5 @@ Note: Practice 4 can be read through Proff Examples
 * [Practice Problem 7](https://www.journaldev.com/1487/adapter-design-pattern-java)---->see if u want skip problem 9
 * [Practice Problem 8](http://www.vogella.com/tutorials/DesignPatternAdapter/article.html)----->revice
 * [Practice Problem 9](https://medium.com/@ssaurel/implement-the-adapter-design-pattern-in-java-f9adb6a8828f)
+
+Note: Qs 9 and 5 are similar. It totally depends on the AdapterDriver(code in main function) code that how to develop code for adapter. Revice these two qs.
