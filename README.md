@@ -43,3 +43,9 @@ Note: Qs 9 and 5 are similar. It totally depends on the AdapterDriver(code in ma
 * [Practice Problem 5](https://www.oodesign.com/strategy-pattern.html)
 * [Practice Problem 6](https://www.programcreek.com/2011/01/a-java-example-of-strategy-design-pattern/)
 * [Practice Problem 7](https://www.baeldung.com/java-strategy-pattern)
+
+
+## Decorator Pattern
+* Practice Problem 1 :can be read from Proff Examples
+* [Practice Problem 2](https://www.journaldev.com/1540/decorator-design-pattern-in-java-example):can also be read from Proff Examples
+* [Practice Problem 2](https://www.tutorialspoint.com/design_pattern/decorator_pattern.htm3
