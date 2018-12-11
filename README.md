@@ -49,3 +49,5 @@ Note: Qs 9 and 5 are similar. It totally depends on the AdapterDriver(code in ma
 * Practice Problem 1 :can be read from Proff Examples
 * [Practice Problem 2](https://www.journaldev.com/1540/decorator-design-pattern-in-java-example)
 * [Practice Problem 3](https://www.tutorialspoint.com/design_pattern/decorator_pattern.htm)
+* [Practice Problem 4](https://dzone.com/articles/decorator-design-pattern-in-java)
+* [Practice Problem 5](https://sourcemaking.com/design_patterns/decorator)
