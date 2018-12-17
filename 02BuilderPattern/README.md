@@ -7,6 +7,10 @@ create different representations.
 - **Director:** constructs an object using the Builder interface. 
 - **Product:** represents the complex object under construction. 
 
+<br/>
+The problems/solutions are:
+<br/>
+<br/>
 
 1. Practice Problem 1 : To construct roof, structure and floor of a shelter where shelter is the complex object. Polar shelter and tropical shelter needs to be build using builder classes.
 2. [Practice Problem 2](https://www.tutorialspoint.com/design_pattern/builder_pattern.htm)
