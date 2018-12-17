@@ -5,7 +5,7 @@ The **classes/objects** participating in adapter pattern:
 - **Adapter** - adapts the interface Adaptee to the Target interface.
 - **Adaptee** - defines an existing interface that needs adapting.
 - **Client** - collaborates with objects conforming to the Target interface.
-
+<br/>
 The problems/solutions are:
 1. **Practice Problem 1 :** If a client only understands the SquarePeg interface for inserting pegs using the insert() method, but we have RoundPeg class which provides the same service but using differentimplementations. How can it insert round pegs, which are pegs, but that are inserted differently, using the insertIntoHole() method?
 2. **Practice Problem 2 :** For the practice problem 1, if the client wanted to have a two way adapter for both round peg and sqaure peg. We need to build a class adapter to do multiple implementation of both SqaurePegInterface and RoundPegInterface interfaces.
