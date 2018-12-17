@@ -1,12 +1,12 @@
 # Design-Patterns
+This gives the descriptions of various patterns. It also provides solutions in the specific design patterns for various linked problems(Please click on the links to get the problem description).
 
-## Factory Pattern
-
+## 01 Factory Pattern
+The Factory Pattern provides a simple decision making class that returns one of several possible subclasses of an abstract base class depending on the data that are provided.
 * [Practice Problem 1](https://www.journaldev.com/1392/factory-design-pattern-in-java)
 * [Practice Problem 2](https://alvinalexander.com/java/java-factory-pattern-example#the-concrete-dog-classes)
 * [Practice Problem 3](https://www.binpress.com/factory-design-pattern/)
 * [Practice Problem 4](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm)
-Note: Practice 4 can be read through Proff Examples
 * [Practice Problem 5](https://dzone.com/articles/java-the-factory-pattern)
 * [Practice Problem 6](https://sourcemaking.com/design_patterns/factory_method)
 * [Practice Problem 7](https://www.geeksforgeeks.org/design-patterns-set-2-factory-method)
