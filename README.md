@@ -8,7 +8,7 @@ In general, a pattern has four essential elements:
 - **The solution:** The solution describes the elements that make up the design, their relationships, responsibilities, and collaborations. 
 - **The consequences:** The consequences are the results and trade-offs of applying the pattern.
 
-This reposiory gives the descriptions of few design patterns and their use in various problems.<br />
+This repository gives the descriptions of few design patterns and their use in various problems.<br />
 **Please refer to specific design pattern README.md for more details.**
 
 ### Design Patterns:
